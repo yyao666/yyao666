@@ -11,6 +11,3 @@
 
 - Thank you for your visit！
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyao666&layout=compact)](https://github.com/yyao666/github-readme-stats)
-
-
