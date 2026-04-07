@@ -6,7 +6,7 @@
 - 🎧 **Speech AI (now in CMCC):** Contributed to automatic speech recognition (ASR) models (wav2vec2.0 / Conformer), improving robustness in real-world Telecom environments
 
 
-- :fire: Hobbies: music:musical_note:, photography:camera:, swimming:swimmer:
+- :fire: **Hobbies:** Music 🎵 · Photography 📷 · Swimming 🏊
 
 
 <br>
