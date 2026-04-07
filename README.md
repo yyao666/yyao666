@@ -1,13 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Yuyao
+
+- 🔬 **Research Interests:** AI fairness, multimodal representation learning, speech AI, and LLM fine-tuning
+- 🎙️ **Multimodal Research (MSc work):** Built deep learning models for deception detection using audio + visual data, focusing on cross-domain generalization
+- 🤖 **LLM Experience (vivo internship):** Worked on LoRA / QLoRA fine-tuning and instruction tuning for large language models (for Indoor Intelligent Assistant)
+- 🎧 **Speech AI (now in CMCC):** Contributed to automatic speech recognition (ASR) models (wav2vec2.0 / Conformer), improving robustness in real-world Telecom environments
 
 
-- :bell: My current research direction is to eliminate AI/LLM bias, such as bias caused by ethnic groups and gender.
-- :computer: I have worked on projects to train deep learning models for deception detection, targeting multimodal data such as faces, audio, etc. Experience using the PyTorch framework.
-- :computer: I also have extensive research experience in Large Language Models (LLMs), focusing on efficient parameter fine-tuning using state-of-the-art techniques such as LoRA and QLoRA.
 - :fire: Hobbies: music:musical_note:, photography:camera:, swimming:swimmer:
-- :email: My email adress: YWANG175@e.ntu.edu.sg
+
+
+<br>
+
+
+📫 Contact：
+
+YWANG175@e.ntu.edu.sg
+
+<br>
 
   
-
-- Thank you for your visit！
+**Thank you for your visit！**
 
